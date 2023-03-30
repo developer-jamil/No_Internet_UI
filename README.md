@@ -1,4 +1,4 @@
 # No_Internet_UI
 
-## UI Style 1
-<img src="/image/ss1.jpg" alt="LogIn" width="200" height="400" style="Color:green">
+<h2 style="color:green">UI Style 1</h2>
+<img src="/image/ss1.jpg" alt="LogIn" width="200" height="400">
