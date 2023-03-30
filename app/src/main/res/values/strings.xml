@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">No Internet UI</string>
+    <string name="it_seems_there_is">It seems there is something wrong with your internet connection. Please connect to the internet and stat App again.</string>
+    <string name="try_again">Try Again</string>
+    <string name="ooops_no_internet">Ooops! No Internet</string>
+
+    <string name="no_internet_seven">No Internet connection. Make sure that Wi-Fi or mobile data is turned on, then try again.</string>
+</resources>
